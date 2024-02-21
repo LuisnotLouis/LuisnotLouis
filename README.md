@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @LuisnotLouis
 - 👀 I’m interested in Computer Science Game Development and Cyber Security
 - 🌱 I’m currently learning Python
-- 📫 How to reach me yaniel.diazra@icloud.com and ydelgado0623@gmail.com
+- 📫 How to reach me yaniel.diarza@icloud.com and ydelgado0623@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Undergradute of UNC, junior
 
